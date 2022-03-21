@@ -1,2 +1,2 @@
-# reading-notes
-This is my learning journal. 
+# Vida's Reading Notes
+## This is my learning journal. 
