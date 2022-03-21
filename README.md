@@ -11,5 +11,5 @@ Find me here:
 
 ### **Include 3 reminders to yourself of how to keep yourself in a growth mindset**
 ##### Convert "I screwed it up!" to "Well, I found one way that won't work, now to try a different way!"  
-Convert "I really stink at this!" to "I'm not very adept at this, YET."  
-Convert "I give up!" to "I think I'll take two minutes to regroup and try again in a moment."
+##### Convert "I really stink at this!" to "I'm not very adept at this, YET."  
+##### Convert "I give up!" to "I think I'll take two minutes to regroup and try again in a moment."
