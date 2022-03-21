@@ -4,7 +4,7 @@
 Find me here: 
 
 # Vida's Reading Notes
-## 3/21/2022 ![Preparing to Launch](/assets/images/shuttle.png)
+## 3/21/2022 [Preparing to Launch](https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1608&q=80)
 
 ### **Explain “growth mindset” in your own words**
 ##### Having a growth mindset is understanding that people generally aren't just "gifted" or "born with" inate talents. These gifts that we perceive are hard won and acquired through dedicated practice and study. Anyone can be successful at acquiring new skills and abilities if they are willing to put in the work. Further, a growth mindset differs from a fixed mindset in that a fixed mindset may not see the value in failure. There's a popular saying that Edison failed 999 times before he finally succeeded once in creating a viable light bulb. I can't say that those numbers are factually accurate but the idea demonstrates well that failure is integral to eventual success as it helps our minds to grow.
