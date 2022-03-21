@@ -1,7 +1,7 @@
 # A Bit About Vida
 #### Mellow greetings from North Carolina (Eastern time zone)! I'm Vida (she/her), Mom to four furkids and pandemic-inspired homeschooler of two (nephews) with a passion for Star Trek, canine rescue, and learning coding. My background is in online support services providing support in retail accounting, commercial real estate underwriting, logistics, and canine rescue. My system is running 64-bit Win 10 Home v.10.0.19044. I love learning new things and am excited about taking this class because I've long had an interest in learning to code and the stars have finally aligned for me to have an opportunity to do so! 
 
-Find me here: 
+Find me here: [Link](https://github.com/Vida-1 "GitHub Profile")
 
 # Vida's Reading Notes
 ## 3/21/2022 Preparing to Launch ![Image](https://images.unsplash.com/photo-1614728263952-84ea256f9679?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1608&q=80)
