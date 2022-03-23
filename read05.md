@@ -11,6 +11,6 @@
 
 ### 3/23/2022 Such (Cascading) Style!![Image](https://user-images.githubusercontent.com/102064281/159654491-358521d2-a43c-434b-b99d-6cfc3e0cb2fc.png)
 
-##### - 
-##### - 
-##### - 
+##### - placeholder text
+##### - placeholder text
+##### - placeholder text
