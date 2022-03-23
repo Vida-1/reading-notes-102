@@ -9,6 +9,6 @@
 
 ##### - Git is an open-source distributed version control system development of which was initiated by Linus Torvalds in 2005 in an attempt to improve upon and replace (due to conflict with the makers of) BitKeeper. It has since become "one of the most utilized Version Control Systems in the world." ("Git Tutorial: A Comprehensive Guide by Jenni Choi for Udemy)
 
-##### - Add-Commit-Push (ACP) Workflow: To push local changes to GitHub: (1) Save the work; (2) git status; (3) git add; (4) git commit -m "message in 50 characters or fewer reason for this commit"; (5) git push origin main
+##### - Add-Commit-Push (ACP) Workflow: To push local changes to GitHub using Terminal (after navigating to the appropriate folder): (1) Save the work; (2) git status; (3) git add; (4) git commit -m "message in 50 characters or fewer reason for this commit"; (5) git push origin main
 
-
+##### - To pull work down locally from GitHub using Terminal: (*) git pull origin main 
