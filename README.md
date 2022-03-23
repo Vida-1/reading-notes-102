@@ -8,3 +8,8 @@ Find me here: [GitHub Profile](https://github.com/Vida-1)
 [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read02Image.png?width=285&height=175&crop=fill">](read02.md)
 [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read03Image.jpg?width=285&height=175&crop=fill">](read03.md)
 [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read04Image.png?width=285&height=175&crop=fill">](read04.md)
+
+[<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read05Image.jpg?width=285&height=175&crop=fill">](read05.md)
+[<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read06Image.png?width=285&height=175&crop=fill">](read06.md)
+[<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read07Image.jpg?width=285&height=175&crop=fill">](read07.md)
+[<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read08Image.png?width=285&height=175&crop=fill">](read08.md)
