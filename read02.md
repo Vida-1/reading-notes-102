@@ -7,7 +7,7 @@
 
 ## Notes
 
-### 3/21/2022 The Importance of a Good Text Editor[Image](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+### 3/21/2022 The Importance of a Good Text Editor![Image](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
 ##### - Word Processors such as MS Word, and WordPerfect comprise one category of text editors. Another category would be code editors such as the simplistic NotePad and the more feature packed Microsoft Visual Studio. 
 
