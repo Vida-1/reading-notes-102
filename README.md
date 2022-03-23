@@ -7,5 +7,3 @@ Find me here: [GitHub Profile](https://github.com/Vida-1)
 [<img src="https://hosting.photobucket.com/images/rr18/Vida_P/Read01Image(1).jpg?width=285&height=175&crop=fill)](Read01)">](Read01)
 
 (https://hosting.photobucket.com/images/rr18/Vida_P/Read02Image.png?width=285&height=175&crop=fill)  ![Image3](https://hosting.photobucket.com/images/rr18/Vida_P/Read03Image.jpg?width=285&height=175&crop=fill)  ![Image4](https://hosting.photobucket.com/images/rr18/Vida_P/Read04Image.png?width=285&height=175&crop=fill)
-
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
