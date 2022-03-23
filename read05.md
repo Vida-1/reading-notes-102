@@ -16,3 +16,5 @@
 ##### - "Note: A browser is sometimes called a user agent, which basically means a computer program that represents a person inside a computer system. Browsers are the main type of user agent we think of when talking about CSS, however, it is not the only one. There are other user agents available — such as those which convert HTML and CSS documents into PDFs to be printed." -From: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS
 
 ##### - W3C is one of several standards orgs that publish all web standards (See CSS [Working Group](https://www.w3.org/Style/CSS/) for more info)
+
+##### - Note from lecture on applying padding on stylesheet:    padding: TB LR;   or    padding: top right bottom left;
