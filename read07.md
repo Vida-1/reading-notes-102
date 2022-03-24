@@ -11,7 +11,8 @@
 
 ### 3/23/2022 Someone's gotta program it!![Image](https://images.unsplash.com/photo-1591416214419-5fdf50159c9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1466&q=80)
 
-##### - placeholder text
-##### - placeholder text
+##### - Terminology update: Gosub aFunction/Return == function aFunction () {return; }
+##### - function toCelsius(farenheit) { return (5/9) * (farenheit-32); }
+<span style="color:blue">some *blue* text</span>
 ##### - placeholder text
 
