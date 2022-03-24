@@ -13,6 +13,6 @@
 
 * Terminology update: Gosub aFunction/Return == function aFunction () {return; }
 * function toCelsius(farenheit) { return (5/9) * (farenheit-32); }
-* From the reading: <span style="color:green">*"Accessing a function without () will return the function definition (see blue below) instead of the function result:*</span>
+* From the reading: <span style="color:green">*"Accessing a function without () will return the function definition [(see blue below)] instead of the function result:*"</span>
 * <span style="color:blue">function toCelsius(farenheit) { return (5/9) * (farenheit-32); }</span>
 * <span style="color:green">*The intended function result (using 41 F) would be:  *</span> <span style="color:blue">**5 C**</span>
