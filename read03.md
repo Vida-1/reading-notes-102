@@ -17,7 +17,7 @@
 ##### - To pull work down locally from GitHub using Terminal: (*) git pull origin main 
 
 # Notes from Lab:
-So you had the brilliant idea of trying to initiate a new project by using Terminal comman entries like "mkdir" and "touch", so now how do you get all that work that you did in VS Code up on GitHub?
+So you had the brilliant idea of trying to initiate a new project by using Terminal commands like "mkdir" and "touch", so now how do you get all that work that you did in VS Code up on GitHub?
 
 Here's how:
 
