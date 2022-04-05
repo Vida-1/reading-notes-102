@@ -37,13 +37,21 @@ git status -keeping your eye on the ball
 git push origin main  (this may throw an error about access rights and repo existence, do this:)
 
 gh repo create
+
 Push an existing local repository to GitHub
+
 Path to local repository (just hit enter)
+
 Repository name (the folder you're in)
+
 Description (type in something lovely and brief)
+
 Visibility (make it Public)
+
 Add a remote (yes)
+
 What should the new remote be called (origin)
+
 Would you like to push commits from the current branch to the "origin"? (Yes)
 
 git status -keeping your eye on the ball
